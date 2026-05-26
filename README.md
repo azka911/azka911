@@ -63,7 +63,7 @@ Requirements-to-schema project for a real organisation.
 
 ## GitHub Stats
 
-![Azka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azka911&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Azka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azka911&show_icons=true&hide_border=true&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azka911&layout=compact&hide_border=true&theme=default)
 
 ---
